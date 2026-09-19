@@ -46,3 +46,32 @@ the plan is simple: 555 timer in astable mode = it just keeps oscillating foreve
 **Time spent:** 3 hours (mostly googling tbh)
  
 ---
+
+
+## Entry 2 — Footprints (this was kinda annoying)
+ 
+assigned footprints to everything today. honestly this part was lowkey tedious but whatever.
+ 
+### CD4017 footprint situation
+ 
+so the guide said the CD4017 footprint isn't in KiCad by default which is actually so annoying?? like why wouldn't they include it. had to download from Ultra Librarian and import it. the import process was kinda confusing but i followed the guide step by step.  
+ 
+![footprint](https://cdn.hackclub.com/01a0b78d-cc72-7cdc-b238-e25c1ad22c69/image.png)
+ 
+checked pin spacing against the datasheet and everything seemed to line up. the 4017 is 2.54mm pitch which is standard for DIP so we good.
+ 
+ran **Update PCB from Schematic** and everything showed up in the PCB editor in a big pile in the corner lol. 
+ 
+### What went wrong
+ 
+- spent like 30 mins confused about why my CD4017 symbol didn't have a footprint assigned. turns out i had to manually add it because it's not in the default library. dumb.
+
+### Screenshots
+ 
+![assigning](https://cdn.hackclub.com/01a0b78d-cf67-729b-9836-b4fcec51f780/2026-09-19_08-29-49.png)
+
+![assigning](https://cdn.hackclub.com/01a0b78d-d257-7aa9-8c11-2cb43d7fe1ec/2026-09-19_08-29-51.png)
+ 
+**Time spent:** 1.5 hours
+ 
+---
