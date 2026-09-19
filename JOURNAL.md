@@ -26,8 +26,6 @@ the plan is simple: 555 timer in astable mode = it just keeps oscillating foreve
 - the 555 astable config had me googling for like 20 mins. the capacitor goes between pin 2 and 6?? and then to ground?? eventually got it tho
 ### Screenshots
 
-![image.png](https://cdn.hackclub.com/01a0b59e-5cff-713d-8a01-c441a35ce639/image.png)
-
 ---
 
 ![image.png](https://cdn.hackclub.com/01a0b59e-6028-7a15-a15c-00ebd722fddc/2026-09-18_23-28-39.png)
