@@ -124,3 +124,13 @@ fixed them by:
 **Time spent:** 4 hours (routing is pain)
  
 ---
+
+## Entry 4 - Adding art in my pcb
+
+I had sent the PCB image in the half-life channel and shadow gave suggestions to add arts in the pcb so I added some cute cat images.
+
+![3d render](https://cdn.hackclub.com/01a0bd6c-0d3f-7dec-8da0-6530d129e04d/image.png)
+
+![3d render](https://cdn.hackclub.com/01a0bd6e-5b5c-7e99-886f-6801983845e2/3d-render-front.png)
+
+![3d render](https://cdn.hackclub.com/01a0bd6e-5fa5-7ad8-88ad-c1e4a000d7c1/3d-render-back.png)
