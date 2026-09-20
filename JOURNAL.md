@@ -36,7 +36,7 @@ the plan is simple: 555 timer in astable mode = it just keeps oscillating foreve
 
 ---
  
-![full schematic - it actually looks decent](Images/Schematic.png)
+![full schematic - it actually looks decent](Images/Schematics.png)
 
 ---
  
