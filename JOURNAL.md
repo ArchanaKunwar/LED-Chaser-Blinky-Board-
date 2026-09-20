@@ -136,3 +136,27 @@ I had sent the PCB image in the half-life channel and shadow gave suggestions to
 ![3d render](https://cdn.hackclub.com/01a0bd6e-5fa5-7ad8-88ad-c1e4a000d7c1/3d-render-back.png)
 
 **Time spent:** 1 hours (routing is pain)
+
+---
+
+---
+ 
+## Entry 5 - readme and submission
+ 
+added some custom art on the silkscreen. nothing crazy, just some text and a little lightning bolt because... blinky board... electricity... get it. also put my github handle on there so people know who made it.
+ 
+then i exported everything:
+ 
+- 3D view screenshot
+- gerbers + drill files
+- pushed all the .kicad files to github
+- wrote a README (no AI i promise, wrote it myself)
+got a JLCPCB quote for 5 boards in standard green.
+
+![3d render](https://cdn.hackclub.com/01a0bd84-7a6a-7fd7-a448-08a41c40a6a2/image.png)
+
+
+**time spent:** 0.5 hours
+ 
+---
+
