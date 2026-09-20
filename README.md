@@ -2,7 +2,7 @@
 
 my first ever PCB!! its a little board with 10 LEDs that chase each other in a loop, and theres a knob on it so you can change how fast they go. thats it. thats the whole thing. but it works and honestly im so proud of it.
 
-built this for Hack Club Halflife and i went in knowing basically nothing about PCB design so if i can do it you definately can.
+built this for Hack Club Half-life and i went in knowing basically nothing about PCB design so if i can do it you definately can.
 
 ![finished board with LEDs chasing](Images/3d-render-front.png)
 
@@ -91,7 +91,7 @@ if nothing lights up, check RESET and CLKEN are actually grounded, thats usually
 - added a ground plane on the bottom layer, helps with noise and also just looks professional
 
 ## Made by
-Archana Kunwar 
+Archana Kunwar   
 For hackclub
 
 ---
