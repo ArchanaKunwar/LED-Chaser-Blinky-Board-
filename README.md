@@ -52,7 +52,6 @@ all 10 LED cathodes share ONE 470Ω resistor to ground since only one LED is eve
 | PCB from JLCPCB (5 boards) | ~$2.00 |
 | **parts + PCB** | **~$7.34** |
 
-the PCB isnt in the component table because its seperate. with shipping the whole thing lands somewhere around $7-10 depending on where you order from, mine came out higher because shipping was like $18 which is honestly criminal for a board that weighs nothing. Forge covers it tho so its basically free for me lol.
 
 ---
 
