@@ -134,3 +134,5 @@ I had sent the PCB image in the half-life channel and shadow gave suggestions to
 ![3d render](https://cdn.hackclub.com/01a0bd6e-5b5c-7e99-886f-6801983845e2/3d-render-front.png)
 
 ![3d render](https://cdn.hackclub.com/01a0bd6e-5fa5-7ad8-88ad-c1e4a000d7c1/3d-render-back.png)
+
+**Time spent:** 1 hours (routing is pain)
