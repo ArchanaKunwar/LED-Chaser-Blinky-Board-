@@ -89,9 +89,9 @@ if nothing lights up, check RESET and CLKEN are actually grounded, thats usually
 - using labels instead of drawing wires everywhere made my schematic go from spaghetti to actually readable
 - DRC hit me with like 15 errors the first time, mostly clearance stuff where traces were to close together. rerouted with more spacing and it cleaned up
 - added a ground plane on the bottom layer, helps with noise and also just looks professional
-- one of my traces had a tiny crack in it somehow so i had to run a jumper wire over it. it works, we dont talk about it
-- desoldering is SO much harder then soldering, nobody warned me
 
-board is about 85x60mm, two layer, all through hole so its beginner friendly.
+## Made by
+Archana Kunwar 
+For hackclub
 
 ---
