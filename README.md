@@ -46,15 +46,9 @@ all 10 LED cathodes share ONE 470Ω resistor to ground since only one LED is eve
 
 | Part | Cost |
 |------|------|
-| Capacitors (C1, C2) | $0.31 |
-| LEDs (x10) | ~$1.00 |
-| Resistors (R1, R2) | $0.10 |
-| Potentiometer (RV1) | $1.58 |
-| NE555P (U1) | $0.56 |
-| CD4017BE (U2) | $1.39 |
-| Pin Headers (J1, J2) | $0.15 |
-| PCB from JLCPCB including shipping | 28.23 |
-| **parts + PCB** | **~33.23** |
+| Component BOM | $5.09 |
+| JLCPCB order after coupon| $28.23 |
+| **parts + PCB** | **$33.32** |
 
 
 ---
