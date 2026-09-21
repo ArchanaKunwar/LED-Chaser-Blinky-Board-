@@ -53,8 +53,8 @@ all 10 LED cathodes share ONE 470Ω resistor to ground since only one LED is eve
 | NE555P (U1) | $0.56 |
 | CD4017BE (U2) | $1.39 |
 | Pin Headers (J1, J2) | $0.15 |
-| PCB from JLCPCB (5 boards) | ~$2.00 |
-| **parts + PCB** | **~$7.34** |
+| PCB from JLCPCB including shipping | 28.23 |
+| **parts + PCB** | **~33.23** |
 
 
 ---
