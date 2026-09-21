@@ -38,6 +38,10 @@ all 10 LED cathodes share ONE 470Ω resistor to ground since only one LED is eve
 
 ![Cart](Images/Cart.png)
 
+![Cart](Images/CART.png)
+
+![Cart](Images/Ship-Cost.png)
+
 ### cost breakdown
 
 | Part | Cost |
